@@ -4,6 +4,6 @@ Control y Monitorizacion de cupos de laboratorios de computo en tiempos de covid
 
 Integrantes:
 
-JOSE SERGIO MAGDALENO PALENCIA
-JOSE ANTONIO LANDA SEDENO
+JOSE SERGIO MAGDALENO PALENCIA,
+JOSE ANTONIO LANDA SEDENO y
 BOGART YAIL MARQUEZ LOBATO

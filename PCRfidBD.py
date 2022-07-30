@@ -76,8 +76,8 @@ def pmax30102(nombrealumno):   #Lectura para la oxigenacion
                 
                     #Enviar_correo a la oficina correspoindiente (de proteccion)
                     #Informacion para el envio de correos
-                    correo_origen = 'sergio.magdaleno@uabc.edu.mx' #correo de origen
-                    contrasena = 'magdapalmarcos3'
+                    correo_origen = 'correo@gmail.com' #correo de origen
+                    contrasena = '********'
                     correo_destino = 'JSMPCorreoIoT@gmail.com' # correo de destino
                     #Función para el envio de correo electrónico
                     stroxigeno=str(hrcalc.calc_hr_and_spo2(ir,red)[2])
